@@ -1,5 +1,5 @@
 import logging
-import multiprocessing as mp
+
 
 
 
@@ -9,7 +9,7 @@ counter = 0
 
 machines = []
 
-input_string = '11'
+input_string = '010110'
 
 
 
