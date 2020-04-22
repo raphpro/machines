@@ -2,7 +2,7 @@
 This repo is built to house machines, including finite state machines. <br/>
 
 So far i have only added one machine to this public repo. More to come. <br/>
-<br/><br/>
+<br/>
 
 ## ndfsm
 Please note that ndfsm.py is just a script and is not yet PEP8 compliant, so you may have to navigate the code without a lot of commentary help. <br/>
